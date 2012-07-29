@@ -55,6 +55,7 @@ CMakeScripts/*
 
 # Xcode files
 *.xcodeproj/*
+*.build/*
 
 # Build result folders
 bin/*
