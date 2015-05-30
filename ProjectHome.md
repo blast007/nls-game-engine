@@ -1,0 +1,3 @@
+This engine represents the Next Logical Step in engine design, utilizing the component-based entity system design pattern and modular core loading. The use of components, allowing easy creation of new components that can be integrated into an existing entity, and allowing dynamic core module loading, so new cores can be integrated at run-time, allows the engine to be expanded with minimal code.
+
+The engine is thus able to be easily configured, using the built-in scripting language, to handle any game style you can create: it is truly a universal game engine.  The modularity allows you, the game developer, to choose or make those modules that fit your game the best - no need to sacrifice performance or specificity for generality.
